@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="30.81">
+<testcase classname="feature digiturk" name="validate package price" time="30.673">
+<system-out><![CDATA[Given digiturk australia page is open.......................................passed
+When user click subscribe button............................................passed
+And package price should be validate........................................passed
+And user click register Monthly Plan with Two Week Free Trial...............passed
+When user enters Digiedrk1 and Digdurk2 and digisar2kpazar@gmail.com and Digfhu2rk12.passed
+And user click offers and content updates checkbox..........................passed
+And user click create account button........................................passed
+When user select payment method.............................................passed
+And click terms and conditions checkbox.....................................passed
+And user click pay now......................................................passed
+And validate total charge is one............................................passed
+When user enters the cardholdername and cardnumber and verificationcode.....passed
+And user select expiry date.................................................passed
+And user click confirm payment button.......................................passed
+Then user is should see not valid card number message.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
